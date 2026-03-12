@@ -1,2 +1,2 @@
-#l/bin/bash
+#!/bin/bash
 print(7 + 6)
